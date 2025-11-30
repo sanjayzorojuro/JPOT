@@ -4,7 +4,7 @@ A modern, responsive quiz application built with Flask that fetches questions fr
 
 ## 🔗 Live Demo
 
-🚀 Deployed at: https://jpot.onrender.com
+ Deployed at: https://jpot.onrender.com
  
 
 
