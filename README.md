@@ -196,16 +196,4 @@ FLASK_ENV=production
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Credits
-
-- **Questions**: [Open Trivia Database](https://opentdb.com/)
-- **Design**: Modern glassmorphism with Inter font family
-- **Icons**: Unicode emojis for universal compatibility
-- **Framework**: Flask with SQLAlchemy and Jinja2
-
----    
 
